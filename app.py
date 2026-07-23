@@ -98,7 +98,7 @@ col1, col2 = st.columns([1, 3.5], vertical_alignment="center")
 
 with col1:
     st.image(
-        "assets/logo.png",
+        "logo.png",
         use_container_width=True
     )
 
