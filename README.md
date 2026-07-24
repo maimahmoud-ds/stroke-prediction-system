@@ -74,7 +74,8 @@ The model was trained using a stroke prediction dataset and enhanced with featur
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/stroke-prediction-system.git
+git clone https://github.com/maimahmoud-ds
+/stroke-prediction-system.git
 cd stroke-prediction-system
 ```
 
